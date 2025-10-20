@@ -1,0 +1,154 @@
+{
+    "foreground_mean": {
+        "Dice": 0.8951848792080277,
+        "FN": 3577.875,
+        "FP": 6583.25,
+        "IoU": 0.8106783898190149,
+        "TN": 1715933.375,
+        "TP": 43377.5,
+        "n_pred": 49960.75,
+        "n_ref": 46955.375
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.8951848792080277,
+            "FN": 3577.875,
+            "FP": 6583.25,
+            "IoU": 0.8106783898190149,
+            "TN": 1715933.375,
+            "TP": 43377.5,
+            "n_pred": 49960.75,
+            "n_ref": 46955.375
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8984346491761558,
+                    "FN": 1103,
+                    "FP": 9752,
+                    "IoU": 0.8155981381442599,
+                    "TN": 1710606,
+                    "TP": 48011,
+                    "n_pred": 57763,
+                    "n_ref": 49114
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_100.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_100.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9089490790899242,
+                    "FN": 2256,
+                    "FP": 6148,
+                    "IoU": 0.8330950111217033,
+                    "TN": 1719120,
+                    "TP": 41948,
+                    "n_pred": 48096,
+                    "n_ref": 44204
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_106.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_106.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8982140708903398,
+                    "FN": 2388,
+                    "FP": 6919,
+                    "IoU": 0.8152346541729533,
+                    "TN": 1719100,
+                    "TP": 41065,
+                    "n_pred": 47984,
+                    "n_ref": 43453
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_108.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_108.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8981966649619799,
+                    "FN": 4634,
+                    "FP": 7509,
+                    "IoU": 0.8152059776901889,
+                    "TN": 1703761,
+                    "TP": 53568,
+                    "n_pred": 61077,
+                    "n_ref": 58202
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_111.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_111.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.9191157770521154,
+                    "FN": 4019,
+                    "FP": 3932,
+                    "IoU": 0.8503369348341678,
+                    "TN": 1716346,
+                    "TP": 45175,
+                    "n_pred": 49107,
+                    "n_ref": 49194
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_112.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_112.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8905633392483513,
+                    "FN": 3334,
+                    "FP": 4930,
+                    "IoU": 0.802716703669221,
+                    "TN": 1727583,
+                    "TP": 33625,
+                    "n_pred": 38555,
+                    "n_ref": 36959
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_163.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_163.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8567599557846752,
+                    "FN": 7767,
+                    "FP": 6876,
+                    "IoU": 0.7494138786686061,
+                    "TN": 1711037,
+                    "TP": 43792,
+                    "n_pred": 50668,
+                    "n_ref": 51559
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_165.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_165.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8912454974606797,
+                    "FN": 3122,
+                    "FP": 6600,
+                    "IoU": 0.803825820251019,
+                    "TN": 1719914,
+                    "TP": 39836,
+                    "n_pred": 46436,
+                    "n_ref": 42958
+                }
+            },
+            "prediction_file": "/home/rnga/tsdehaan/my-scratch/results/U200_epochs/all_ensemble/IVIM_166.nii.gz",
+            "reference_file": "/home/rnga/tsdehaan/my-scratch/Data_nnUNet/nnUnet_raw/Dataset001_AAA/ground_truth/IVIM_166.nii.gz"
+        }
+    ]
+}
